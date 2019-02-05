@@ -1,0 +1,25 @@
+{
+  "name": "intro_to_iot",
+  "version": "1.0.0",
+  "description": "Learning how to make web apps with nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ysabelle Lam",
+  "license": "ISC",
+
+  "engines": {
+    "node":  "10.15.1",
+    "npm": "6.4.1"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.2.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.8",
+    "semantic-ui": "^2.4.2"
+  }
+}
