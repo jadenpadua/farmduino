@@ -1,0 +1,43 @@
+.my.container{
+	margin: 15px auto;
+}
+
+.jscolor, .my.centered {
+	text-align: center;
+}
+
+.my.column{
+	margin:auto;
+}
+
+.bg-blue {
+	background-color: #17363F !important;
+	color: white !important;
+}
+
+.table.label{
+	text-align: center;
+	height: 40px;
+	margin 0 auto;
+	line-height: 40px;
+	border-radius: 5px;
+}
+
+table{
+	margin-top: 0 !important;
+
+}
+
+.table.wrapper{ 
+max-height: 400px;
+overflow-y: scroll;
+
+}
+
+canvas{
+	width = 100%; 
+}
+
+.my.grid, .my.statistics, .my.segment {
+	margin-top: 25px !important;
+}
