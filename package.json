@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bluetooth-serial-port": "^2.2.3",
     "express": "^4.16.4",
-    "node-bluetooth": "^1.2.5"
+    "node-bluetooth": "^1.2.5",
+    "node-gyp": "^4.0.0"
   }
 }
